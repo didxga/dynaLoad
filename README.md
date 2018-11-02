@@ -1,7 +1,7 @@
 # dynaLoad
 Dynamically load JavaScript file and its dependenies
 
-### run demo
+### Run demo
 1. Go test folder
 2. Run http-server (you need first npm install http-server -g)
 3. Open and debug in browser
